@@ -2,6 +2,4 @@ Second Earth is a geopolitical minecraft server where you can create towns and n
 
 Discord: https://discord.gg/cTqG3p7VE7
 
-Live map: http://secondearth.online:25582
-
 
